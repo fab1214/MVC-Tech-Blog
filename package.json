@@ -1,5 +1,5 @@
 {
-  "name": "just-tech-news",
+  "name": "The-Tech-Blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fab1214/just-tech-news.git"
+    "url": "git+https://github.com/fab1214/MVC-Tech-Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fab1214/just-tech-news/issues"
+    "url": "https://github.com/fab1214/MVC-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/fab1214/just-tech-news#readme",
+  "homepage": "https://github.com/fab1214/MVC-Tech-Blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.2",
