@@ -5,22 +5,22 @@ This application is a CMS-style blog site where developers can create their own 
 
 ## Screenshots
 Login
-<img src='/Users/fabricio/Desktop/MVC-Tech-Blog/public/images/login.png'>
+<img src='./public/images/login.png'>
 
 Homepage
-<img src='/Users/fabricio/Desktop/MVC-Tech-Blog/public/images/homepage.png'>
+<img src='./public/images/homepage.png'>
 
 Create Post
-<img src='/Users/fabricio/Desktop/MVC-Tech-Blog/public/images/create_post.png'>
+<img src='./public/images/create_post.png'>
 
 Edit Post
-<img src='/Users/fabricio/Desktop/MVC-Tech-Blog/public/images/edit_post.png'>
+<img src='./public/images/edit_post.png'>
 
 View Post
-<img src='/Users/fabricio/Desktop/MVC-Tech-Blog/public/images/view_post.png'>
+<img src='./public/images/view_post.png'>
 
 User Dashboard
-<img src='/Users/fabricio/Desktop/MVC-Tech-Blog/public/images/view_dashboard.png'>
+<img src='./public/images/view_dashboard.png'>
 
 ## Built With
 * HTML
