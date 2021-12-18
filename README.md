@@ -32,12 +32,10 @@ User Dashboard
 * MySQL
 
 ## Installation
-Go to the MVC-Tech-Blog repositiory, then clone the repo onto your machine. Run `n`pm install i` on your terminal once you enter the root directory of this project to install the neccessary dependencies to run the app correctly.
+Go to the MVC-Tech-Blog repositiory, then clone the repo onto your machine. Run `npm install i` on your terminal once you enter the root directory of this project to install the neccessary dependencies to run the app correctly.
 
 ## Usage
 When you install the dependencies using npm install on your terminal, run npm start, and the local server will start up on PORT 3001. Use http://localhost:3001/ to view the application on your local server. This application is also available on Heroku, which can be found here: https://aqueous-tundra-44491.herokuapp.com/
-
-The application can then be utilized to create, save and delete user notes.
 
 ## Contribution
 * Created by Fabricio Bustamante
